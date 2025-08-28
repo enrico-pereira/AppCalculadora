@@ -3,6 +3,6 @@ public class Calculadora {
         return a + b;
     }
     public static int subtrair(int a, int b){
-        return a + b;
+        return a - b;
     }
 }
